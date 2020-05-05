@@ -1,0 +1,120 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #21243d;
+}
+.p{
+  line-height: 2;
+
+}
+.the
+{font-weight: normal;
+  margin-top:0;
+  color: #6f0000;
+}
+.skill-row
+{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.h{
+width: 40%;
+margin: 40px auto 60px;
+}
+h2
+{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color:#66bfbf;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999e;
+}
+a
+{
+  color: #11999e;
+
+}
+.footer-link{
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.top-container
+{
+  background-color: #e1f2fb;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom: 300px;
+}
+.comp
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.art{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.intro{
+  width:10.9999%;
+  margin: auto;
+
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 6px;
+  width:4%;
+  margin: 100px auto;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  margin-bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.copy{
+  color:white;
+  padding-top: 30px;
+  font-size: 10px;
+}
+.btnn{
+  background-color: #66bfbf;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  box-shadow: inset 2px 2px 3px rgba(255,255,255,.6),
+              inset -2px -2px 3px rgba(0,0,0,.6);
+  text-shadow: 1px 1px 1px #000;
+  line-height: 2.5;
+  border:0;
+  padding:0 20px;
+}
+.middle-container{
+  margin:100px 0 0 100px;
+}
