@@ -116,8 +116,9 @@ hr{
 .btnn {
   transition-duration: 0.4s;
 }
-.btnn:hover
-{ background-color:#f37121;
+
+.btnn:hover {
+  background-color: #4CAF50; /* Green */
   color: white;
 }
 .btnn{
