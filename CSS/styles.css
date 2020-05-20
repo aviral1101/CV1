@@ -89,10 +89,7 @@ a{
 a:hover{
   color: #eaf6f6;
 }
-.btnn:hover{
-  background-color: #f37121;
-  color :white;
-}
+
 hr{
   border-style: dotted none none;
   border-color: grey;
@@ -116,7 +113,13 @@ hr{
   padding-top: 30px;
   font-size: 10px;
 }
-
+.btnn {
+  transition-duration: 0.4s;
+}
+.btnn:hover
+{ background-color:#f37121;
+  color: white;
+}
 .btnn{
  
   background-color: #f37121;
