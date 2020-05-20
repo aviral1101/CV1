@@ -90,7 +90,8 @@ a:hover{
   color: #eaf6f6;
 }
 .btnn:hover{
-  color :#eaf6f6;
+  background-color: #f37121;
+  color :white;
 }
 hr{
   border-style: dotted none none;
